@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World,%20I'm%20Songarden!&fontSize=45&fondColor=auto&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
+<p align="left">- <code>Contact</code> : gkdlqkql06@gmail.com  </p>  
+<p align="left">- <code>Blog</code> : https://songarden.tistory.com </p> 
 
 <a href="#demo">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
