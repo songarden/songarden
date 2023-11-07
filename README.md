@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World,%20I'm%20Songarden!&fontSize=45&fondColor=auto&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <p align='center'>
-  <a href="https://github.com/songarden/">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
+  <p>📕my stack📕</p>
   <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
   </a>
 </p>
 
