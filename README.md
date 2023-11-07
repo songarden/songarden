@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World,%20I'm%20Songarden!&fontSize=45&fondColor=auto&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongarden%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br><br><br>
+<img align = 'right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdlqkql6"></img>
 <p align="left">- <code>Contact</code> : gkdlqkql06@gmail.com  </p>  
 <p align="left">- <code>Blog</code> : https://songarden.tistory.com </p>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongarden%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br><br>
 <a href="#demo">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white">
@@ -14,7 +16,7 @@
 
 
 
-<img align = 'right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdlqkql6"></img>
+
 
 
 
