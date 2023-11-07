@@ -8,8 +8,6 @@
 
 
 <br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongarden%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="#demo">
   <p align="left">📕Stack</p>
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
@@ -17,7 +15,9 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
 </a>
+<br><br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongarden%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
