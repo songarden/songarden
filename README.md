@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Songarden&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Songarden&fontSize=90&animation=fadeIn&fontAlignY=38)
 <p align='center'>Hello World ! I'm songarden</p>
 <p align='center'>
   <a href="https://github.com/songarden/">
