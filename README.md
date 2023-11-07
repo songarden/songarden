@@ -22,8 +22,7 @@
 <br><br>
 <a>
   
-  ![<p align = 'left'>GitHub stats</p>](https://github-readme-stats.vercel.app/api?username=songarden&show_icons=true&theme=radical)
-  [<p align = 'right'>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songarden&layout=compact&theme=radical&langs_count=4)</p>](https://github.com/songarden/github-readme-stats)
+  ![<p align = 'left'>GitHub stats</p>](https://github-readme-stats.vercel.app/api?username=songarden&show_icons=true&theme=radical) [<p align = 'right'>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songarden&layout=compact&theme=radical&langs_count=4)</p>](https://github.com/songarden/github-readme-stats)
 
 
 </a>
