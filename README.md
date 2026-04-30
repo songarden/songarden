@@ -13,10 +13,18 @@
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=plastic&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+</div>
+
+**DataBases**
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=plastic&logo=redis&logoColor=white">
 </div>
 
 **Frontend & Desktop**
@@ -62,7 +70,7 @@
 - LiveKit WebRTC 기반 실시간 음성 인터컴 통신 시스템 풀스택 개발
 - Docker 컨테이너 인프라 구성 (LiveKit, Redis, Egress 녹음 파이프라인)
 - WebRTC ICE 협상 · 웹훅 재시도 방어 · Docker 네트워킹 트러블슈팅
-- Self-hosted Gitea 형상관리 운영
+- 폐쇄망 환경에서 Self-hosted Gitea 형상관리 운영 및 Action CI/CD 파이프라인 구축 운영
 
 ### 🏢 ㈜포인트모바일 | 시스템S/W Wireless Team 연구원
 `2024.08 ~ 2025.12` `1년 5개월`
