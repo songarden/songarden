@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/LiveKit-FF4F00?style=plastic&logo=webrtc&logoColor=white">
 </div>
 
 **DataBases**
@@ -32,13 +33,11 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/WPF-512BD4?style=plastic&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/LiveKit-FF4F00?style=plastic&logo=webrtc&logoColor=white">
 </div>
 
 **Embedded & Mobile**
 <div>
-  <img src="https://img.shields.io/badge/Android-34A853?style=plastic&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Firmware-00979D?style=plastic&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Android OS-34A853?style=plastic&logo=android&logoColor=white">
 </div>
 
 **Language**
@@ -47,6 +46,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white">
 </div>
 
 **Tools**
